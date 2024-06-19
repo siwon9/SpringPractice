@@ -4,4 +4,4 @@
 
 <c:out value="${html}" />
 <c:out value="${str}" default="값 없음" />
-<c:out value="<h1>제목</h1>" escapeXml="false" />
+<c:oudt value="<h1>제목</h1>" escapeXml="false" />
