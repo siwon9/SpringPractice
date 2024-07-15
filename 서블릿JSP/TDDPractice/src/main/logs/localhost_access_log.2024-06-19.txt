@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [19/Jun/2024:08:45:30 +0900] "GET /TDDPractice/exam07/ex01.jsp HTTP/1.1" 200 309
+0:0:0:0:0:0:0:1 - - [19/Jun/2024:08:52:16 +0900] "GET /TDDPractice/exam07/ex02.jsp HTTP/1.1" 200 115
+0:0:0:0:0:0:0:1 - - [19/Jun/2024:08:55:07 +0900] "GET /TDDPractice/exam07/ex03.jsp HTTP/1.1" 200 75
+0:0:0:0:0:0:0:1 - - [19/Jun/2024:08:59:08 +0900] "GET /TDDPractice/exam07/ex04.jsp HTTP/1.1" 200 154
+0:0:0:0:0:0:0:1 - - [19/Jun/2024:08:59:57 +0900] "GET /TDDPractice/exam07/ex04.jsp HTTP/1.1" 200 397
